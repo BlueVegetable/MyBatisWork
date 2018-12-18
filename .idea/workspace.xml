@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="50d58a10-9b94-4976-82fb-208b845707ed" name="Default Changelist" comment="" />
+    <list default="true" id="50d58a10-9b94-4976-82fb-208b845707ed" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyBatisWork/Birth.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Birth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Birth.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,32 +20,74 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Birth.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="366">
-              <caret line="60" column="35" selection-start-line="60" selection-start-column="35" selection-end-line="60" selection-end-column="35" />
+            <state relative-caret-position="280">
+              <caret line="237" column="52" selection-start-line="237" selection-start-column="52" selection-end-line="237" selection-end-column="52" />
               <folding>
                 <element signature="method#linkMysqlDataBase#0;class#Birth#0" />
                 <element signature="method#getColName#0;class#Birth#0" />
-                <element signature="e#851#914#1" />
-                <element signature="e#920#1220#1" />
-                <element signature="e#947#1052#1" />
-                <element signature="e#1058#1206#1" />
-                <element signature="e#1094#1188#1" />
+                <element signature="e#1202#1684#1" />
+                <element signature="e#1268#1331#1" />
+                <element signature="e#1337#1637#1" />
+                <element signature="e#1364#1469#1" />
+                <element signature="e#1475#1623#1" />
+                <element signature="e#1511#1605#1" />
+                <element signature="docComment;method#birthPoJo#0;class#Birth#0" />
+                <element signature="method#birthPoJo#0;class#Birth#0" />
+                <element signature="method#birthDao#0;class#Birth#0" />
+                <element signature="method#birthService#0;class#Birth#0" />
+                <element signature="method#birthServiceImpl#0;class#Birth#0" />
+                <element signature="method#birthServiceImpl#1;class#Birth#0" />
+                <element signature="method#birthMyBatis#0;class#Birth#0" />
+                <element signature="e#5541#5632#0" />
+                <element signature="e#5775#5849#0" />
+                <element signature="docComment;method#createPoJo#0;class#Birth#0" />
+                <element signature="method#createPoJo#0;class#Birth#0" />
+                <element signature="e#4230#4330#1" />
+                <element signature="e#4406#4527#1" />
+                <element signature="method#createDao#0;class#Birth#0" />
+                <element signature="e#5754#6023#1" />
+                <element signature="e#5962#6013#1" />
+                <element signature="method#createService#0;class#Birth#0" />
+                <element signature="e#7243#7512#1" />
+                <element signature="e#7451#7502#1" />
+                <element signature="method#createServiceImpl#0;class#Birth#0" />
+                <element signature="e#10428#10607#1" />
+                <element signature="e#10546#10597#1" />
+                <element signature="e#10823#11002#1" />
+                <element signature="e#10941#10992#1" />
+                <element signature="e#14118#14273#1" />
+                <element signature="e#14212#14263#1" />
+                <element signature="e#14774#14953#1" />
+                <element signature="e#14892#14943#1" />
+                <element signature="e#15160#15315#1" />
+                <element signature="e#15254#15305#1" />
+                <element signature="method#createMyBatis#0;class#Birth#0" />
+                <element signature="e#17198#17237#1" />
+                <element signature="docComment;method#GetSetMethodToString#0;class#Birth#0" />
                 <element signature="method#GetSetMethodToString#0;class#Birth#0" />
-                <element signature="e#2711#2920#1" />
-                <element signature="e#2751#2824#1" />
-                <element signature="e#2830#2910#1" />
+                <element signature="e#7995#8194#1" />
+                <element signature="e#8035#8103#1" />
+                <element signature="e#8109#8184#1" />
                 <element signature="method#getEqualMethod#0;class#Birth#0" />
-                <element signature="e#2406#2511#1" />
-                <element signature="e#2953#3432#1" />
-                <element signature="e#3001#3170#1" />
-                <element signature="e#3176#3422#1" />
+                <element signature="e#8435#8540#1" />
+                <element signature="e#9016#9495#1" />
+                <element signature="e#9064#9233#1" />
+                <element signature="e#9239#9485#1" />
                 <element signature="method#getHashCodeMethod#0;class#Birth#0" />
-                <element signature="e#3940#4500#0" />
-                <element signature="e#4505#5118#1" />
-                <element signature="e#4548#5108#0" />
+                <element signature="e#9965#10503#0" />
+                <element signature="e#10548#11248#1" />
+                <element signature="e#10655#11238#0" />
+                <element signature="method#getTableInfo#0;class#Birth#0" />
+                <element signature="e#11939#15373#1" />
+                <element signature="e#12171#13425#1" />
+                <element signature="e#12210#13411#0" />
+                <element signature="e#13431#15363#1" />
+                <element signature="e#13470#15349#0" />
+                <element signature="docComment;method#getGetSetMethod#0;class#Birth#0" />
                 <element signature="method#getGetSetMethod#0;class#Birth#0" />
+                <element signature="docComment;method#toUpper#0;class#Birth#0" />
                 <element signature="method#isClass#0;class#Birth#0" />
-                <element signature="e#4027#4280#0" />
+                <element signature="e#16730#16994#0" />
               </folding>
             </state>
           </provider>
@@ -54,6 +102,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -64,8 +115,11 @@
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="1358" />
     <option name="y" value="-8" />
-    <option name="width" value="1382" />
+    <option name="width" value="1376" />
     <option name="height" value="784" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -73,7 +127,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -95,18 +148,20 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545022428843" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545133969405" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/mysql-connector-java-5.1.29.jar!/" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -150,18 +205,22 @@
       <option name="presentableId" value="Default" />
       <updated>1544965657060</updated>
       <workItem from="1544965661723" duration="3266000" />
-      <workItem from="1545012718671" duration="8678000" />
+      <workItem from="1545012718671" duration="17201000" />
+      <workItem from="1545048531232" duration="115000" />
+      <workItem from="1545115273950" duration="868000" />
+      <workItem from="1545117336517" duration="5361000" />
+      <workItem from="1545123851266" duration="8336000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11944000" />
+    <option name="totallyTimeSpent" value="35147000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-8" width="1382" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.25378788" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2659091" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -170,7 +229,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.27707008" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.13694267" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -198,32 +257,74 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Birth.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="366">
-          <caret line="60" column="35" selection-start-line="60" selection-start-column="35" selection-end-line="60" selection-end-column="35" />
+        <state relative-caret-position="280">
+          <caret line="237" column="52" selection-start-line="237" selection-start-column="52" selection-end-line="237" selection-end-column="52" />
           <folding>
             <element signature="method#linkMysqlDataBase#0;class#Birth#0" />
             <element signature="method#getColName#0;class#Birth#0" />
-            <element signature="e#851#914#1" />
-            <element signature="e#920#1220#1" />
-            <element signature="e#947#1052#1" />
-            <element signature="e#1058#1206#1" />
-            <element signature="e#1094#1188#1" />
+            <element signature="e#1202#1684#1" />
+            <element signature="e#1268#1331#1" />
+            <element signature="e#1337#1637#1" />
+            <element signature="e#1364#1469#1" />
+            <element signature="e#1475#1623#1" />
+            <element signature="e#1511#1605#1" />
+            <element signature="docComment;method#birthPoJo#0;class#Birth#0" />
+            <element signature="method#birthPoJo#0;class#Birth#0" />
+            <element signature="method#birthDao#0;class#Birth#0" />
+            <element signature="method#birthService#0;class#Birth#0" />
+            <element signature="method#birthServiceImpl#0;class#Birth#0" />
+            <element signature="method#birthServiceImpl#1;class#Birth#0" />
+            <element signature="method#birthMyBatis#0;class#Birth#0" />
+            <element signature="e#5541#5632#0" />
+            <element signature="e#5775#5849#0" />
+            <element signature="docComment;method#createPoJo#0;class#Birth#0" />
+            <element signature="method#createPoJo#0;class#Birth#0" />
+            <element signature="e#4230#4330#1" />
+            <element signature="e#4406#4527#1" />
+            <element signature="method#createDao#0;class#Birth#0" />
+            <element signature="e#5754#6023#1" />
+            <element signature="e#5962#6013#1" />
+            <element signature="method#createService#0;class#Birth#0" />
+            <element signature="e#7243#7512#1" />
+            <element signature="e#7451#7502#1" />
+            <element signature="method#createServiceImpl#0;class#Birth#0" />
+            <element signature="e#10428#10607#1" />
+            <element signature="e#10546#10597#1" />
+            <element signature="e#10823#11002#1" />
+            <element signature="e#10941#10992#1" />
+            <element signature="e#14118#14273#1" />
+            <element signature="e#14212#14263#1" />
+            <element signature="e#14774#14953#1" />
+            <element signature="e#14892#14943#1" />
+            <element signature="e#15160#15315#1" />
+            <element signature="e#15254#15305#1" />
+            <element signature="method#createMyBatis#0;class#Birth#0" />
+            <element signature="e#17198#17237#1" />
+            <element signature="docComment;method#GetSetMethodToString#0;class#Birth#0" />
             <element signature="method#GetSetMethodToString#0;class#Birth#0" />
-            <element signature="e#2711#2920#1" />
-            <element signature="e#2751#2824#1" />
-            <element signature="e#2830#2910#1" />
+            <element signature="e#7995#8194#1" />
+            <element signature="e#8035#8103#1" />
+            <element signature="e#8109#8184#1" />
             <element signature="method#getEqualMethod#0;class#Birth#0" />
-            <element signature="e#2406#2511#1" />
-            <element signature="e#2953#3432#1" />
-            <element signature="e#3001#3170#1" />
-            <element signature="e#3176#3422#1" />
+            <element signature="e#8435#8540#1" />
+            <element signature="e#9016#9495#1" />
+            <element signature="e#9064#9233#1" />
+            <element signature="e#9239#9485#1" />
             <element signature="method#getHashCodeMethod#0;class#Birth#0" />
-            <element signature="e#3940#4500#0" />
-            <element signature="e#4505#5118#1" />
-            <element signature="e#4548#5108#0" />
+            <element signature="e#9965#10503#0" />
+            <element signature="e#10548#11248#1" />
+            <element signature="e#10655#11238#0" />
+            <element signature="method#getTableInfo#0;class#Birth#0" />
+            <element signature="e#11939#15373#1" />
+            <element signature="e#12171#13425#1" />
+            <element signature="e#12210#13411#0" />
+            <element signature="e#13431#15363#1" />
+            <element signature="e#13470#15349#0" />
+            <element signature="docComment;method#getGetSetMethod#0;class#Birth#0" />
             <element signature="method#getGetSetMethod#0;class#Birth#0" />
+            <element signature="docComment;method#toUpper#0;class#Birth#0" />
             <element signature="method#isClass#0;class#Birth#0" />
-            <element signature="e#4027#4280#0" />
+            <element signature="e#16730#16994#0" />
           </folding>
         </state>
       </provider>
